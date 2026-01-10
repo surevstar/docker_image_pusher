@@ -3,4 +3,5 @@ nginx
 python
 openjdk:8-jdk-alpine3.12
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+--platform=linux/x86-64 xiaoyaliu/alist
+#--platform=linux/amd64 xiaoyaliu/alist
