@@ -3,3 +3,4 @@ nginx
 python:alpine:3.19
 openjdk:8u342
 #支持指定架构
+--platform=linux/amd64
