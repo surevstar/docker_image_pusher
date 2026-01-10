@@ -1,6 +1,7 @@
 nginx
 #支持私库
 python
-openjdk:8-jre-alpine
+openjdk
+docker.io/library/openjdk:8u342
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
