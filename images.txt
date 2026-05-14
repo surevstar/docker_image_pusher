@@ -1,4 +1,5 @@
-camunda/camunda-bpm-platform:run-latest
+camunda-bpm-platform:run-latest
+#camunda/camunda-bpm-platform:run-latest
 nginx
 #支持私库
 openjdk:8u342
